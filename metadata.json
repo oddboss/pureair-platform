@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "name": "Copy of Delhi PureAir Dashboard",
+  "description": "A premium, ward-wise pollution action platform for Delhi with real-time AQI tracking, AI-powered mitigation strategies, and cinematic Apple-inspired design."
+}
